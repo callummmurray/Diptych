@@ -1,2 +1,2 @@
 # Diptych
-String quartet exploring information representation and its impact on artistic creation 
+String quartet exploring information representation and its impact on artistic creation, built using Python
